@@ -1,0 +1,12 @@
+# Package
+package-lock.json
+node_modules/
+
+# Development
+privdocs/
+notes.txt
+
+# Disabled
+docs/
+tests/
+*.log

@@ -1,0 +1,8 @@
+{
+	"actions": [
+		{
+			"name": "example-action",
+			"command": "echo Hello from the soul of DOWNSRC, btw, try the command 'downsrc sheep', it's cool, trust."
+		}
+	]
+}

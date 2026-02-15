@@ -1,0 +1,8 @@
+{
+	"accentColor": "orange",
+	"symbolsPath": "./resources/symbols",
+	"defaultDownloadDir": "./downloads",
+	"showProgress": true,
+	"maxConcurrentDownloads": 3,
+	"defaultZipAfterDownload": true
+}
