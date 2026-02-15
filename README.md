@@ -1,7 +1,8 @@
-<h2> <p style="text-align:center">
-☆ DownSrc ☆  
-<p style="text-align:center; font-size: 1rem; font-weight: normal;"> "I just want to download my stuff ugh.." </p>
-</p></h2>
+<h2>
+<p align="center">☆ DownSrc ☆</p>
+
+<p align="center">"I just want to download my stuff ugh.." </p>
+</h2>
 
 <div align="center">
 
@@ -12,8 +13,7 @@
 
 </div>
 
-
-<p style="text-align:center">
+<p align="center">
 <img src="./resources/img/preview.png">
 A simple, cute command-line tool for downloading files and websites.
 </p>
