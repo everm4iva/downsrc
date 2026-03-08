@@ -120,13 +120,13 @@ downsrc -v https://example.com
 ## ☆-Documentation
 For now.. none, keep exploring on ur own
 
-<!-- Documentation is available in the [docs](docs/) folder:
+Documentation is available in the [docs](docs/) folder:
 
 - [Getting Started](docs/getting-started.md)
 - [Flags Reference](docs/flags.md)
 - [Configuration](docs/configuration.md)
 - [Actions](docs/actions.md)
-- [Examples](docs/examples.md) -->
+- [Examples](docs/examples.md)
 
 ## ☆-Examples
 
@@ -281,6 +281,4 @@ Big help! thank u so much
 ## ☆-Contributing
 
 Free to do something. in fact.. free to do anything, did u read the [LICENSE](LICENSE)  file??
-
-
-## ☆-Author - [**everm4iva** (m4iva)](https://everm4iva.github.io)
+## ☆-Author - [**everm4iva** (m4iva)](https://everm4iva.github.io/social)

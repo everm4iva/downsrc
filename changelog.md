@@ -1,3 +1,9 @@
+# Release 1.2.0
+- Added documentation!
+- Updated dependencies.
+- Polished action system!
+- Created crazy files.
+
 # Release 1.1.0
 > "More colors, more touch" - 15 February 2026
 - Organized code structure, now with custom notes and headers.
