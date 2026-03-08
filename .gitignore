@@ -3,10 +3,10 @@ package-lock.json
 node_modules/
 
 # Development
+.github/
 privdocs/
 notes.txt
 
 # Disabled
-docs/
 tests/
 *.log
