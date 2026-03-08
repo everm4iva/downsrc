@@ -225,7 +225,7 @@ function printHelp() {
 function printDetails() {
 	printHeader('Downsrc (DownSource)');
 	console.log(colors.white('  Created by: ') + colors.accent('m4iva (everm4iva)'));
-	console.log(colors.white('  Version: ') + colors.accent('1.1.0'));
+	console.log(colors.white('  Version: ') + colors.accent('1.2.0'));
 	console.log(colors.white('  GitHub: ') + colors.accent('github.com/everm4iva/downsrc'));
 	console.log(colors.white('  Description: ') + colors.dim('"I just want to download my stuff ugh.."\n'));
 }

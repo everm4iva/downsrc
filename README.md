@@ -1,7 +1,8 @@
-<h2> <p style="text-align:center">
-☆ DownSrc ☆  
-<p style="text-align:center; font-size: 1rem; font-weight: normal;"> "I just want to download my stuff ugh.." </p>
-</p></h2>
+<h2>
+<p align="center">☆ DownSrc ☆</p>
+
+<p align="center">"I just want to download my stuff ugh.." </p>
+</h2>
 
 <div align="center">
 
@@ -12,8 +13,7 @@
 
 </div>
 
-
-<p style="text-align:center">
+<p align="center">
 <img src="./resources/img/preview.png">
 A simple, cute command-line tool for downloading files and websites.
 </p>
@@ -120,13 +120,13 @@ downsrc -v https://example.com
 ## ☆-Documentation
 For now.. none, keep exploring on ur own
 
-<!-- Documentation is available in the [docs](docs/) folder:
+Documentation is available in the [docs](docs/) folder:
 
 - [Getting Started](docs/getting-started.md)
 - [Flags Reference](docs/flags.md)
 - [Configuration](docs/configuration.md)
 - [Actions](docs/actions.md)
-- [Examples](docs/examples.md) -->
+- [Examples](docs/examples.md)
 
 ## ☆-Examples
 
@@ -281,6 +281,4 @@ Big help! thank u so much
 ## ☆-Contributing
 
 Free to do something. in fact.. free to do anything, did u read the [LICENSE](LICENSE)  file??
-
-
-## ☆-Author - [**everm4iva** (m4iva)](https://everm4iva.github.io)
+## ☆-Author - [**everm4iva** (m4iva)](https://everm4iva.github.io/social)
