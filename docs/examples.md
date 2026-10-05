@@ -1,6 +1,6 @@
 # Examples
 
-Real-world examples of using Downsrc.
+Real-use examples of using Downsrc.
 
 ## Basic Downloads
 

@@ -280,5 +280,5 @@ Big help! thank u so much
 
 ## ☆-Contributing
 
-Free to do something. in fact.. free to do anything, did u read the [LICENSE](LICENSE)  file??
+Free to do something. in fact.. free to do anything, did u read the [LICENSE](LICENSE) file??
 ## ☆-Author - [**everm4iva** (m4iva)](https://everm4iva.github.io/social)

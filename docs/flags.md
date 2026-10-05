@@ -33,7 +33,7 @@ downsrc -p ./downloads https://example.com/file.zip
 Enables advanced scraping mode. Downloads the page and follows same-domain links recursively.
 
 - If `root-num` is `0`: Downloads only the provided link and its assets
-- If `root-num` is a number (e.g., `5`): Scans and downloads that many links plus their assets
+- If `root-num` is a number (ex: `5`): Scans and downloads that many links plus their assets
 - If `root-num` is not provided or invalid: Scans all same-domain links (warns if >10)
 
 **Note:** Only follows links within the same domain. External domain links are not followed.

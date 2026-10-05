@@ -37,12 +37,12 @@ Due to how the command-line parser (minimist) works, **multi-character flags req
 ### Examples of Correct Usage
 
 ```bash
-# ✅ Correct - using double-dash for multi-character flags
+# Correct - using double-dash for multi-character flags
 downsrc --fe "svg" https://example.com/assets
 downsrc --as 5 https://example.com
 downsrc --as 3 --fe "pdf" https://example.com/docs
 
-# ❌ Wrong - single dash doesn't work for multi-character flags
+# Wrong - single dash doesn't work for multi-character flags
 downsrc -fe "svg" https://example.com/assets   # Parsed as -f -e "svg"
 downsrc -as 5 https://example.com              # Parsed as -a -s 5
 ```
@@ -59,7 +59,7 @@ This means `options.DeepScraping` remains `undefined`!
 With `--as`, the parser correctly sees it as ONE flag:
 
 - `--as` (with value `5`)
-- `options.DeepScraping` = `'5'` ✅
+- `options.DeepScraping` = `'5'` (correct)
 
 ## Updated Command Examples
 

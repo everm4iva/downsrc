@@ -1,11 +1,13 @@
 # Package
 package-lock.json
 node_modules/
+*lock
+*.lock
 
 # Development
 .github/
 privdocs/
-notes.txt
+# notes.txt
 
 # Disabled
 tests/
