@@ -15,7 +15,7 @@
 	"type": "module",
 	"main": "/resources/index.js",
 	"bin": {
-		"downsrc": "./bin/downsrc.js"
+		"downsrc": "bin/downsrc.js"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
